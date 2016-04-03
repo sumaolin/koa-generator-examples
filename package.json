@@ -22,5 +22,12 @@
     "gulp": "^3.9.0",
     "gulp-gh-pages": "^0.5.4",
     "nodemon": "^1.8.1"
+  },
+  "dependencies": {
+    "co-body": "^4.0.0",
+    "co-view": "0.0.1",
+    "co-views": "^2.1.0",
+    "ejs": "^2.4.1",
+    "koa-session": "^3.3.1"
   }
 }
